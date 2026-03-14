@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitPulse</string>
+    <string name="home_title">Today\'s Habits</string>
+    <string name="add_habit_title">New Habit</string>
+    <string name="edit_habit_title">Edit Habit</string>
+    <string name="stats_title">Statistics</string>
+    <string name="detail_title">Habit Detail</string>
+    <string name="habit_name_label">Habit Name</string>
+    <string name="habit_description_label">Description (optional)</string>
+    <string name="habit_frequency_label">Frequency</string>
+    <string name="reminder_time_label">Reminder Time</string>
+    <string name="save_button">Save</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="no_habits_message">No habits yet. Tap + to add your first habit!</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="best_streak">Best Streak</string>
+    <string name="completion_rate">Completion Rate</string>
+    <string name="weekly_overview">Weekly Overview</string>
+    <string name="monthly_overview">Monthly Overview</string>
+    <string name="reminder_channel_name">Habit Reminders</string>
+    <string name="reminder_channel_description">Notifications for habit reminders</string>
+    <string name="reminder_notification_title">HabitPulse Reminder</string>
+    <string name="reminder_notification_text">Time to complete: %1$s</string>
+    <string name="widget_description">Shows today\'s habits progress</string>
+    <string name="frequency_daily">Daily</string>
+    <string name="frequency_weekly">Weekly</string>
+    <string name="frequency_monthly">Monthly</string>
+    <string name="days_label">days</string>
+    <string name="delete_confirm_title">Delete Habit?</string>
+    <string name="delete_confirm_message">This will permanently delete this habit and all its history.</string>
+</resources>
